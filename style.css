@@ -275,7 +275,7 @@
     display: flex;
     justify-content: flex-end;
     padding-bottom: 10vw;
-    margin-top: -3rem;
+    /* margin-top: -3rem; */
   }
   .page3 {
     min-height: 100vh;
